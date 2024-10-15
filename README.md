@@ -24,7 +24,15 @@
 
 ## ⚙️ **Technologies utilisées**
 
-<<<<<<< HEAD
+[C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
+- **Langage** : C
+
+[Makefile](https://img.icons8.com/external-justicon-flat-justicon/344/external-makefile-responsive-web-design-justicon-flat-justicon.png)
+- **Outils** : Makefile pour automatiser la compilation.
+
+[Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+- **Versionning** : Git pour la gestion du code source.
+
 [C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
 - **Langage** : C
 
@@ -35,18 +43,6 @@
 - **Versionning** : Git pour la gestion du code source.
 
 [Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unit_testing_icon.svg/1024px-Unit_testing_icon.svg.png)
-=======
-[C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
-- **Langage** : C
-
-[Makefile](https://img.icons8.com/external-justicon-flat-justicon/344/external-makefile-responsive-web-design-justicon-flat-justicon.png)
-- **Outils** : Makefile pour automatiser la compilation.
-
-[Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-- **Versionning** : Git pour la gestion du code source.
-
-[Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unit_testing_icon.svg/1024px-Unit_testing_icon.svg.png)
->>>>>>> 918f05ee20e28cc520edb548fc45cd00e985710f
 - **Tests** : Tests unitaires pour assurer la fiabilité du code.
 
 ---
@@ -64,7 +60,6 @@
                                   |
                                   v
                       [ Envoi des commandes à la voiture ]
-<<<<<<< HEAD
 ```
 
 L'IA fonctionne en lisant les données des capteurs (comme les distances et les angles), les traite pour prendre des décisions en temps réel, et ajuste la vitesse et la direction de la voiture en fonction des obstacles.
@@ -109,14 +104,6 @@ Nous avons réussi à obtenir **100% à la TA** et **Grade A** pour ce projet, g
 
 ---
 
-## 📸 **Illustration du résultat**
-
-Voici un aperçu du fonctionnement du projet :
-
-![Simulateur de course](https://via.placeholder.com/500x300.png?text=Simulation+de+course+autonome)
-
----
-
 ## 🛠️ **Instructions d'installation**
 
 ### 1. Cloner le dépôt
@@ -146,5 +133,3 @@ make
 ---
 
 Merci d'avoir consulté notre projet ! 🚗💨
-=======
->>>>>>> 918f05ee20e28cc520edb548fc45cd00e985710f
