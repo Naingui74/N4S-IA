@@ -1,9 +1,6 @@
 # 🥩 need4steak (n4s)
 
-![Epitech Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Epitech.png/300px-Logo_Epitech.png)
-
 ### **Projet réalisé à Epitech - Grade : A**  
-![Grade A](https://via.placeholder.com/150x100.png?text=Grade+A+%7C+100%25+TA)
 
 ---
 
@@ -20,16 +17,16 @@
 
 ## ⚙️ **Technologies utilisées**
 
-![C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
+[C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
 - **Langage** : C
 
-![Makefile](https://img.icons8.com/external-justicon-flat-justicon/344/external-makefile-responsive-web-design-justicon-flat-justicon.png)
+[Makefile](https://img.icons8.com/external-justicon-flat-justicon/344/external-makefile-responsive-web-design-justicon-flat-justicon.png)
 - **Outils** : Makefile pour automatiser la compilation.
 
-![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+[Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 - **Versionning** : Git pour la gestion du code source.
 
-![Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unit_testing_icon.svg/1024px-Unit_testing_icon.svg.png)
+[Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unit_testing_icon.svg/1024px-Unit_testing_icon.svg.png)
 - **Tests** : Tests unitaires pour assurer la fiabilité du code.
 
 ---
