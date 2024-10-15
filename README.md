@@ -3,7 +3,6 @@
 <img width="690" alt="Capture d’écran 2024-10-14 à 22 56 55" src="https://github.com/user-attachments/assets/a6d863cb-ecd6-4f9c-90c8-1acae24d66c6">
 
 ### **Projet réalisé à Epitech - Grade : A**  
-![Grade A](https://via.placeholder.com/150x100.png?text=Grade+A+%7C+100%25+TA)
 =======
 # 🥩 need4steak (n4s)
 
