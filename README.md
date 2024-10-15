@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-
 # 🥩 need4steak (n4s)
 
 <img width="690" alt="Capture d’écran 2024-10-14 à 22 56 55" src="https://github.com/user-attachments/assets/a6d863cb-ecd6-4f9c-90c8-1acae24d66c6">
-
 
 ### **Projet réalisé à Epitech - Grade : A**  
 ![Grade A](https://via.placeholder.com/150x100.png?text=Grade+A+%7C+100%25+TA)
@@ -11,7 +8,6 @@
 # 🥩 need4steak (n4s)
 
 ### **Projet réalisé à Epitech - Grade : A**  
->>>>>>> 918f05ee20e28cc520edb548fc45cd00e985710f
 
 ---
 
@@ -29,16 +25,16 @@
 ## ⚙️ **Technologies utilisées**
 
 <<<<<<< HEAD
-![C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
+[C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
 - **Langage** : C
 
-![Makefile](https://img.icons8.com/external-justicon-flat-justicon/344/external-makefile-responsive-web-design-justicon-flat-justicon.png)
+[Makefile](https://img.icons8.com/external-justicon-flat-justicon/344/external-makefile-responsive-web-design-justicon-flat-justicon.png)
 - **Outils** : Makefile pour automatiser la compilation.
 
-![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+[Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 - **Versionning** : Git pour la gestion du code source.
 
-![Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unit_testing_icon.svg/1024px-Unit_testing_icon.svg.png)
+[Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unit_testing_icon.svg/1024px-Unit_testing_icon.svg.png)
 =======
 [C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
 - **Langage** : C
