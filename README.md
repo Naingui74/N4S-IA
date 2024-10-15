@@ -3,13 +3,6 @@
 <img width="690" alt="Capture d’écran 2024-10-14 à 22 56 55" src="https://github.com/user-attachments/assets/a6d863cb-ecd6-4f9c-90c8-1acae24d66c6">
 
 ### **Projet réalisé à Epitech - Grade : A**  
-=======
-# 🥩 need4steak (n4s)
-
-### **Projet réalisé à Epitech - Grade : A**  
-
----
-
 ## 📜 **Description du projet**
 
 **need4steak** est un projet où nous avons implémenté une version simplifiée d'une intelligence artificielle (IA) pour un simulateur de voiture autonome. L'objectif est de contrôler une voiture dans un environnement de course en utilisant des algorithmes de détection de distance et de vitesse, ainsi qu'une gestion efficace de la trajectoire.
